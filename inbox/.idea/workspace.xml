@@ -2,10 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ea09f2-662d-4306-8f84-0a10ac1483e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Portfolio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contracts/inbox.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yelp-star-prediction" beforeDir="false" afterPath="$PROJECT_DIR$/../yelp-star-prediction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/bignumber.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/bn.js/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/bn.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/assert.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/async_hooks.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/base.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/buffer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/child_process.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/cluster.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/console.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/constants.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/dgram.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/dns.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/domain.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/events.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/fs.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/globals.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/http.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/http2.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/https.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/inspector.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/module.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/net.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/os.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/path.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/perf_hooks.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/process.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/punycode.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/querystring.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/readline.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/repl.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/stream.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/string_decoder.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/timers.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/tls.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/trace_events.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.2/globals.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.2/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/ts3.2/util.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/tty.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/url.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/util.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/v8.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/vm.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/worker_threads.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/node/zlib.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bignumber.js/bignumber.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bignumber.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/inbox.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/inbox.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/inbox.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +70,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Solidity Contract" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/compile.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/inbox.test.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1VETFzdKoSmkpsOyUhhSukEHWM0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -55,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576817154972</updated>
       <workItem from="1576817156037" duration="171000" />
+      <workItem from="1576818300528" duration="3011000" />
     </task>
     <servers />
   </component>
@@ -66,7 +125,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
